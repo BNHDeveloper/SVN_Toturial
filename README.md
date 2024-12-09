@@ -6,3 +6,4 @@
 #### 2- Svn commit
 #### 3- Svn uppdate
 #### 4- Svn revert
+#### 5- Svn add
